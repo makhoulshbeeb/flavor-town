@@ -1,0 +1,6 @@
+[submodule "flavor-town-back"]
+	path = flavor-town-back
+	url = https://github.com/potentialwook/flavor-town-back.git
+[submodule "flavor-town-front"]
+	path = flavor-town-front
+	url = https://github.com/potentialwook/flavor-town-front.git
